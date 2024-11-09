@@ -1,0 +1,23 @@
+.Ram{
+    text-align: center;
+    
+    
+}
+#Roll{
+    font-size: 50px;
+    background-color: aqua;
+    border-width: 5px;
+    border-color: black;
+    margin: 10px;
+}
+#Nu{
+    font-size: 100px;
+    color: brown;
+   width: 50vw;
+   margin: auto;
+   height: 20vh;
+   border: 10px solid blue;
+   
+
+}
+

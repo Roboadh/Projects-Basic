@@ -1,0 +1,56 @@
+#Display {
+    display: flex;
+
+    border: 2px solid;
+    height: 8vh;
+    width: 20vw;
+    margin: auto;
+    margin-bottom: 2px;
+    text-align: end;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+    align-items: center;
+    justify-content: end;
+}
+
+#Buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    border: 2px solid;
+    height: 40vh;
+    width: 20vw;
+    margin: auto;
+    
+
+}
+
+#Container {
+    border: 2px solid;
+    height: 52vh;
+    width: 21vw;
+    margin: auto;
+    padding: 5px;
+}
+
+#con {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    color: brown;
+}
+button{
+    font-size: large;
+    cursor: pointer;
+    background-color: black;
+    color: yellow;
+    transition: background 0.5s;
+    
+}
+button:hover{
+   
+    
+    color: gray;
+}

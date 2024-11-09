@@ -1,0 +1,16 @@
+#nam{
+    text-align: center;
+    font-size: 50px;
+}
+
+#batta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    border: 2px solid;
+}
+#man{
+    font-size: 40px;
+
+}

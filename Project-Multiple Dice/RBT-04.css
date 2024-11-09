@@ -1,0 +1,58 @@
+.Ram{
+   text-align: center;
+   margin: 20px;
+   
+   
+
+}
+#ree{
+    border: 2px solid;
+    width: 20vw;
+    margin: auto;
+}
+
+#id{
+    text-align: center;
+}
+#res{
+    text-align: center;
+    font-size: 25px;
+    border: 2px solid;
+    width: 20vw;
+    margin: auto;
+}
+#roll{
+    width: 50px;
+    height: 20px;
+    cursor: pointer;
+    transition: background 1s;
+
+    
+   
+    background-color: aqua;
+    color: red;
+    border-radius: 10px;
+    border: none;
+    
+    
+
+}
+#roll:hover{
+    background-color: blue;
+}
+#value{
+    
+    width: 20vw;
+    height: 5vh;
+    font-size: 25px;
+    background-color: yellow;
+    text-align: end;
+    color: red;
+    border-radius: 10px;
+    border: none;
+}
+#res1 img{
+    text-align: center;
+    width: 150px;
+  
+}

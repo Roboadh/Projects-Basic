@@ -1,0 +1,28 @@
+#score{
+    font-size: 30vw;
+    width: 15vw;
+    margin: auto;
+ 
+}
+.All{
+    text-align: center;
+    padding: 10px;
+    margin-left: 10px;
+    
+    
+
+
+}
+.a{
+    background-color: aqua;
+    cursor: pointer;
+    transition: background 1s;
+    border-radius: 5px;
+    border-color: brown;
+    
+
+
+}
+.a:hover{
+    background-color: red;
+}

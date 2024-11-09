@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="Cal.css">
+</head>
+<body>
+    <div id="Container"> 
+        <div id="con">Calculator</div>
+        <input id="Display" readonly>
+        <div id="Buttons">
+            <button onclick= Clear()>AC</button>
+            <button onclick= "update('%')">%</button>
+            <button onclick= "exception()">x</button>
+            <button onclick= "update('/')">/</button>
+            <button onclick= "update('7')">7</button>
+            <button onclick= "update('8')">8</button>
+            <button onclick= "update('9')">9</button>
+            <button onclick= "update('*')">*</button>
+            <button onclick= "update('4')">4</button>
+            <button onclick= "update('5')">5</button>
+            <button onclick= "update('6')">6</button>
+            <button onclick= "update('+')">+</button>
+            <button onclick= "update('1')">1</button>
+            <button onclick= "update('2')">2</button>
+            <button onclick= "update('3')">3</button>
+            <button onclick= "update('-')">-</button>
+            <button onclick= "update('0')">0</button>
+            <button onclick= "update('.')">.</button>
+            <button onclick= "update('00')">00</button>
+            <button onclick= Result()>=</button>
+
+        </div>
+    </div>
+   
+    <script src="Cal.js"></script>
+</body>
+</html>

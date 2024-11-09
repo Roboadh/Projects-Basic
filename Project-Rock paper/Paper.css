@@ -1,0 +1,42 @@
+button{
+    
+    height: 8vh;
+    width: 15vw;
+    font-size:30px;
+    background-color: rgb(43, 131, 131);
+    
+    
+}
+#top{
+    width: 60vw;
+    height: 50vh;
+    margin: auto;
+    border: 2px solid;
+    padding: 20px;
+    
+}
+#body{
+    text-align: center;
+}
+#to{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    margin-bottom: 10px;
+}
+.mid{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    margin-bottom: 10px;
+  
+
+}
+.green,#YC{
+    color: green;
+}
+.red{
+    color: red;
+}
