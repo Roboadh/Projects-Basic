@@ -1,0 +1,62 @@
+#In{
+    display: flex;
+    width: 20vw;
+    height: 5vh;
+    margin:auto;
+    font-size: 20px;
+    background-color: black;
+    color: yellow;
+
+}
+#show{
+    font-size: 20px;
+}
+#Sub{
+    width: 10vw;
+    height: 5vh;
+    margin-bottom: 20px;
+    font-size: 20px;
+    background-color: black;
+    color: yellow;
+
+}
+
+#Main{
+    
+   
+    padding: 10px;
+    border: 2px solid;
+    width: 40vw;
+
+    margin: auto;
+    height: 50vh;
+    background-image: url(poke.jpge.webp);
+    background-position: center center ;
+    background-size: max(500px);
+    
+    
+
+}
+
+#mal{
+    display: flex;
+    justify-content: center;
+}
+#na{
+    display: flex;
+    border: 2px solid;
+    width: 10vw;
+    margin: auto;
+    
+    height: 15vh;
+    background-color: white; 
+    /* justify-content: center; */
+}
+    
+img{
+    size: 200px;
+}
+    
+    
+    
+
